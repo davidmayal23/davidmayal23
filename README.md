@@ -9,3 +9,10 @@
 </div>
 
 # Hi, I'm David ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+I am a Master of Engineering student passionate about Data Science :bar_chart: and Artificial Intelligence. My journey began as a Mechatronics Engineer in Colombia, but after discovering the immense potential of AI and the satisfaction that programming brings me :computer:, I chose to reorient my career towards this exciting field. While my path has been unique and navigating self-directed learning can be challenging, I am more motivated than ever to continue expanding my knowledge and contributing positively to the sector :rocket:. Here, you’ll find my projects that reflect my skills and enthusiasm for technology.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
