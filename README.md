@@ -19,17 +19,11 @@ I work on computer vision, edge AI and MLOps: getting models from training to de
 - [motor-temperature-forecasting](https://github.com/davidmayal23/motor-temperature-forecasting): temperature forecasting for electric motors on the public Paderborn University dataset. Early stage; model optimization is planned.
 - [music-genre-classification](https://github.com/davidmayal23/music-genre-classification): genre classification on the GTZAN audio dataset. Early stage.
 
-Most of my professional work is private, so only small personal projects are public here.
-
-## Academic projects (ENSAM, code not public)
+## Academic projects
 
 - **Reinforcement learning for power electronics:** Q-learning control of a modular multilevel converter (2023–2024).
 - **Metaheuristic optimization:** compared genetic algorithm, particle swarm, grey wolf, ant colony, differential evolution, harmony search and simulated annealing on a hydrogen tank fatigue model.
-- **Satellite imagery for water monitoring:** with a non-profit partner, built tools that map water bodies from satellite images to support the monitoring of water pollution (under NDA).
-
-## Currently learning
-
-Azure MLOps (Microsoft AI-300 certification path).
+- **Satellite imagery for water monitoring:** with a non-profit partner, built tools that map water bodies from satellite images to support the monitoring of water pollution.
 
 ## Open to
 
