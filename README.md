@@ -1,45 +1,38 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUzM25zanN4c20xeGhkdGN0enBhamE3aDJ2N3Z1bmY1aGNpMTVxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
+<h1 align="center">David Maya</h1>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/david-maya-lopera/L">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-
-  *`"If opportunity doesn't knock, build a door"`*
-</div>
-
-# Hi, I'm David ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-I am a Master of Engineering student passionate about Data Science :bar_chart: and Artificial Intelligence. My journey began as a Mechatronics Engineer in Colombia, but after discovering the immense potential of AI and the satisfaction that programming brings me :computer:, I chose to reorient my career towards this exciting field. While my path has been unique and navigating self-directed learning can be challenging, I am more motivated than ever to continue expanding my knowledge and contributing positively to the sector :rocket:. Here, you’ll find my projects that reflect my skills and enthusiasm for technology.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplot" alt="Matplot" width="50" height="50"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit" alt="Scikit" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"  title="Tensor" alt="Tensor" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"  title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidmayal23&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/davidmayal23/count.svg" />
+<p align="center">
+  Machine Learning Engineer at Space-Eyes · Medellín, Colombia<br>
+  <a href="https://www.linkedin.com/in/david-maya-lopera/">LinkedIn</a>
 </p>
+
+I work on computer vision, edge AI and MLOps: getting models from training to deployment on real hardware, where memory, latency and reliability set the rules.
+
+## What I work with
+
+- **ML:** PyTorch, TensorFlow, ONNX, Optuna
+- **MLOps:** MLflow, Docker, multi-node training (PyTorch DDP), over-the-air ONNX model deployment to NVIDIA edge devices with rollback, MQTT, Git
+- **Cloud:** Azure, Google Cloud, AWS
+- **Languages:** Python, C/C++, SQL
+
+## Projects
+
+- [motor-temperature-forecasting](https://github.com/davidmayal23/motor-temperature-forecasting): temperature forecasting for electric motors on the public Paderborn University dataset. Early stage; model optimization is planned.
+- [music-genre-classification](https://github.com/davidmayal23/music-genre-classification): genre classification on the GTZAN audio dataset. Early stage.
+
+Most of my professional work is private, so only small personal projects are public here.
+
+## Academic projects (ENSAM, code not public)
+
+- **Reinforcement learning for power electronics:** Q-learning control of a modular multilevel converter (2023–2024).
+- **Metaheuristic optimization:** compared genetic algorithm, particle swarm, grey wolf, ant colony, differential evolution, harmony search and simulated annealing on a hydrogen tank fatigue model.
+- **Satellite imagery for water monitoring:** with a non-profit partner, built tools that map water bodies from satellite images to support the monitoring of water pollution (under NDA).
+
+## Currently learning
+
+Azure MLOps (Microsoft AI-300 certification path).
+
+## Open to
+
+Machine learning, computer vision, edge AI and MLOps roles, in Colombia or remote. Spanish, English, French.
+
+> If opportunity doesn't knock, build a door.
